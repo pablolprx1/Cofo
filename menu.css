@@ -1,0 +1,4 @@
+.scrollable-roles {
+  max-height: 300px; /* Vous pouvez ajuster cette valeur en fonction de vos besoins */
+  overflow-y: auto;
+}
